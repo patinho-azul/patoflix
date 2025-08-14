@@ -2,31 +2,30 @@
 
 
 body{
-color:#1014dd ;
-background-color:#faf4f4 ;
+color:#0313e7 ;
+background-color:#0313e7 ;
 margin: 0px;
 margin-bottom: 100px;
 }
 
 header{
-    border-bottom: solid 2px #1014dd ;
+    border-bottom: solid 2px #a58e63 ;
     margin: 20px;
     font-size: 32px;
-    color: rgb(255, 255, 255);
+    color: black;
 }
 
 section{
      
 padding-bottom: 80px;
 padding-top: 80px;
-background: #1014dd;
+background: gray;
 display: flex;
 justify-content: center;
 }
 
 h1{
-color:color:blue ;
- ;
+color:#c6a974 ;
 font-size: 40px;
 }
 
@@ -53,20 +52,20 @@ img{
 }
 
 .categoria-videos img{
-utu.be encerrou a conexão inesperadamente.
+
     opacity: 0.5;
     height: 200px;
 }
 
 .categoria-videos img:hover{
 
-opacity:1.0;utu.be encerrou a conexão inesperadamente.
-border: 3px solid #1014dd;
+opacity:1.0;
+border: 3px solid #c6a974;
 
 }
 
 .categoria h2{
-color: #1014dd;
+color: #a58e63;
 
 }
 
@@ -75,5 +74,4 @@ color: #1014dd;
     text-align: center;
     padding: 20px;
     background-color: #0c0c0c;
-    color: #1014dd;
-}
+    color: #c6a974;
