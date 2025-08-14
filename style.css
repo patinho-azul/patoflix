@@ -12,14 +12,14 @@ header{
     border-bottom: solid 2px #1014dd ;
     margin: 20px;
     font-size: 32px;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 section{
      
 padding-bottom: 80px;
 padding-top: 80px;
-background: gray;
+background: #1014dd;
 display: flex;
 justify-content: center;
 }
@@ -53,14 +53,14 @@ img{
 }
 
 .categoria-videos img{
-
+utu.be encerrou a conexão inesperadamente.
     opacity: 0.5;
     height: 200px;
 }
 
 .categoria-videos img:hover{
 
-opacity:1.0;
+opacity:1.0;utu.be encerrou a conexão inesperadamente.
 border: 3px solid #1014dd;
 
 }
